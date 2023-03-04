@@ -14,7 +14,6 @@ I have experience working with the following technologies:
 -   🔥 JavaScript 🔥
 -   💻 Bootstrap 💻
 -   💥 VueJS 💥
--   💻 Node.js 💻
 
 I am motivated to learn new technologies 🤓 and am always eager to tackle challenging projects 💪.
 
