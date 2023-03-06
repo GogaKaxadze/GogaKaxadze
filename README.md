@@ -12,14 +12,8 @@ I have experience working with the following technologies:
 -   🔥 HTML 🔥
 -   💅 CSS 💅
 -   🔥 JavaScript 🔥
--   💻 Bootstrap 💻
--   💥 VueJS 💥
 
 I am motivated to learn new technologies 🤓 and am always eager to tackle challenging projects 💪.
-
-## Projects
-
-[Add a list of your projects and a short description of each one. If you have any live demos or code snippets, feel free to include those as well.]
 
 ## Contact
 
