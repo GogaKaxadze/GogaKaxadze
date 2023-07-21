@@ -12,7 +12,7 @@ I have experience working with the following technologies:
 -   🔥 HTML 🔥
 -   💅 CSS 💅
 -   🔥 JavaScript 🔥
-
+-   💅 TypeScript💅
 I am motivated to learn new technologies 🤓 and am always eager to tackle challenging projects 💪.
 
 ## Contact
